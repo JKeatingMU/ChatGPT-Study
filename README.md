@@ -1,2 +1,1 @@
 # ChatGPT-Study
-# ChatGPT-Study
